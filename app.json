@@ -12,8 +12,8 @@
     "android": {
       "adaptiveIcon": {
         "backgroundColor": "#E6F4FE",
-        "foregroundImage": "./assets/android-icon-foreground.png",
-        "backgroundImage": "./assets/android-icon-background.png",
+        "foregroundImage": "./assets/android-icon-foreground.jpg",
+        "backgroundImage": "./assets/android-icon-background.jpg",
         "monochromeImage": "./assets/android-icon-monochrome.png"
       },
       "package": "com.storm97.undercover"

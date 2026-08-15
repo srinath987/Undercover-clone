@@ -1,0 +1,192 @@
+Pizza	Burger	
+Burger	Sandwich	
+Pasta	Noodles	
+Taco	Burrito	
+Pancake	Waffle	
+Donut	Bagel	
+Ice Cream	Gelato	
+Chocolate	Candy	
+Apple	Pear	
+Bread	Toast	
+Fries	Chips	
+Chips	Biscuit	
+Croissant	Baguette
+Lemon	Orange	
+Strawberry	Blue Berry	
+Milk	Cream	
+Lassi   Butter Milk
+Smoothie	Milkshake	
+Cocktail	Mocktail
+Beer	Whisky
+Coca Cola	Sprite
+Tea	Coffee	
+Matcha	Green Tea	
+Lemonade	Orange Juice
+Lion	Tiger	
+Crocodile	Alligator	
+Frog	Lizard	
+Horse	Donkey	
+Eagle	Crow	
+Rabbit	Mongoose	
+Bee	Wasp	
+Butterfly	Moth	
+Mouse	Cat	
+Fox	Wolf	
+Octopus	Squid	
+Crab	Fish
+Dog	Wolf	
+Cat	Tiger	
+Shark	Dolphin	
+Bear	Panda	
+Goat	Sheep	
+Zebra	Horse	
+Giraffe	Camel
+Whale	Shark
+Mountain	Cliff	
+City	Town	
+Library	Bookstore	
+Cinema	Theatre	
+Hotel	Restaurant	
+Park	Garden	
+Castle	Palace	
+Restaurant	Bar
+Museum	Gallery
+Subway	Metro	
+Cabin	Cubicle	
+Church	Temple	
+Beach	Lake	
+Beach	Pool	
+Body building	Yoga	
+Airport	Train Station
+Bakery	Cafe
+Aquarium	Zoo
+Island	Peninsula	
+Cave	Mine	
+Desert	Beach
+Football	Rugby	
+Tennis	Badminton	
+Boxing	Karate	
+Swimming	Diving	
+Skiing	Skating	
+Golf	Hockey	
+Football	Futsal	
+Surfing	Boating	
+Skateboard	Rollerblade	
+Wrestling	Judo	
+Karate	Taekwondo	
+Yoga	Pilates	
+Billiards	Snooker	
+Basketball	Volleyball	
+Cricket	Baseball	
+Chess	Checkers	
+Archery	Darts
+Google	Bing	
+Netflix	Disney+	
+Instagram	Snapchat
+Twitter	Threads	
+WhatsApp	Telegram	
+PlayStation	Xbox	
+Bitcoin	Ethereum	
+MacBook	ChromeBook	
+Chrome	Firefox	
+Spotify	YouTube Music	
+Zoom	Teams	
+Uber	Rapido	
+Airbnb	MakemyTrip	
+Steam	Epic Games	
+Fortnite	PUBG	
+Router	Modem	
+Headphones	Earbuds	
+iPhone	Android	
+YouTube	TikTok	
+Facebook	LinkedIn	
+Reddit	Quora	
+Discord	Slack	
+Nintendo	Sega	
+Minecraft	Roblox	
+Wi-Fi	Bluetooth	
+Monitor	Television	
+River	Stream	
+Ocean	Sea	
+Tornado	Hurricane	
+Rose	Tulip	
+Sunflower	Marigold	
+Lily	Lotus	
+Thunder	Lightning	
+Fog	Mist	
+Canyon	Valley	
+Rain	Snow	
+Cactus	Aloe vera	
+Earthquake	Landslide	
+Aurora	Eclipse	
+Sun	Moon
+Venus Mars
+Pen	Pencil	
+Guitar	Ukulele	
+Piano	Keyboard	
+Clock	Watch	
+DSLR Camera	Phone Camera	
+Chair	Stool	
+Sofa	Couch	
+Pillow	Cushion	
+Lamp	Lantern	
+Scissors	Shears	
+Mug	Cup	
+Bowl	Plate	
+Bottle	Flask	
+Umbrella	Rain Coat	
+Piggy Bank	Purse	
+Glasses	Goggles	
+Necklace	Bracelet	
+Trophy	Medal	
+Telescope	Binoculars	
+Flute	Trumpet	
+Violin	Guitar	
+Phone	Tablet	
+Laptop	Desktop	
+Book	Magazine	
+Backpack	Suitcase	
+Mirror	Window	
+Bicycle	Motorbike
+Bed	Mattress	
+Door	Gate	
+Key	Lock	
+Rope	Cable	
+Fork	Spoon
+Teacher	Professor
+Chef	Baker	
+Author	Journalist
+Surgeon	Anesthesiologist	
+Carpenter	Plumber
+Barber	Hairdresser	
+Florist	Gardener	
+Photographer	Videographer	
+Sculptor	Potter	
+Dancer	Choreographer
+King	Minister	
+Doctor	Nurse	
+Firefighter	Police Officer	
+Lawyer	Judge	
+Singer	Rapper
+Actor	Comedian
+Engineer	Architect	
+Plumber	Electrician	
+Director	Producer	
+Athlete	Coach
+Spy	Detective	
+Spider-Man	Superman
+Pokémon	Slugterra	
+Superman	Captain America	
+Joker	Thanos	
+Inception	Interstellar
+Toy Story	Cars	
+The Lion King	 The Jungle Book	
+Breaking Bad	 Better Call Saul	
+Friends     How I Met Your Mother
+The Simpsons	Family Guy	
+Batman	Iron Man	
+Mario	Sonic	
+Thor	Hulk	
+Stranger Things	    Dark	
+Harry Potter	Lord of the Rings
+Titanic	    Avatar
